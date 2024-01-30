@@ -19,7 +19,7 @@
     "title": "NFTMarketPlace",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to buy and sell Nfts.",
-    "skills": ["React", "Express", "Node"],
+    "skills": ["React", "Blockchain","Solidity","Remix"],
     "demo": "https://github.com/serz4862/NFTMarketplace",
     "source": "https://github.com/serz4862/NFTMarketplace"
   }
