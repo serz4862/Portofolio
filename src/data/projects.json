@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Social Media",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the fullstack.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://github.com/serz4862/IVK_Twitter",
+    "source": "https://github.com/serz4862/IVK_Twitter"
+  },
+  {
+    "title": "Chat_app",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to chat privately.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://myprivatechatapp.netlify.app/",
+    "source": "https://github.com/serz4862/Chat_App"
+  },
+  {
+    "title": "NFTMarketPlace",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to buy and sell Nfts.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://github.com/serz4862/NFTMarketplace",
+    "source": "https://github.com/serz4862/NFTMarketplace"
+  }
+]

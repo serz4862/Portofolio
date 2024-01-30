@@ -1,0 +1,17 @@
+[
+  {
+    "role": "AI programmer ",
+    "organisation": "SmartKnower ",
+    "startDate": "Oct, 2022",
+    "endDate": "Nov,2023",
+    "experiences": ["Created application on the entity and its specification detection with 83% accuracy", "Designed run time algorithms and developed AI systems"]
+  },
+  {
+    "role": "DATABASE MANAGEMENT & DATA MINING ANALYST",
+    "organisation": "Brookfield aviation International",
+    "startDate": "Nov, 2023",
+    "endDate": "Jan, 2023",
+    "experiences": ["Mined data from different aviation company’s web pages using Python with the modules like requests", "The data analyzed on MS Excel helped the company to raise the revenue by 3% with 95% accuracy."]
+  }
+ 
+]
